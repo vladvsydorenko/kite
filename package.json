@@ -1,0 +1,27 @@
+{
+  "name": "kite",
+  "version": "0.0.1",
+  "description": "Kite is a drawing application for knitting and so on",
+  "main": "index.js",
+  "author": "Vlad Sydorenko",
+  "license": "MIT",
+  "scripts": {
+    "app": "electron .",
+    "build": "rollup -c",
+    "dev": "nodemon --exec npm run build"
+  },
+  "dependencies": {
+    "electron": "^1.7.9",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "another-rollup-watch": "^3.10.0",
+    "nodemon": "^1.12.1",
+    "postcss-cssnext": "^3.0.2",
+    "rollup": "^0.52.0",
+    "rollup-plugin-postcss-modules": "^1.0.8",
+    "rollup-plugin-typescript2": "^0.8.4",
+    "typescript": "^2.6.2"
+  }
+}
