@@ -1,13 +1,12 @@
 {
-    "compilerOptions": {
-      "outDir": "",
-      "module": "commonjs",
-      "target": "es6",
-      "jsx": "react",
-      "declaration": false,
-      "sourceMap": false,
-      "allowJs": false,
-      "noImplicitAny": true
-    }
+  "compilerOptions": {
+    "outDir": "",
+    "module": "commonjs",
+    "target": "es6",
+    "jsx": "react",
+    "declaration": false,
+    "sourceMap": false,
+    "allowJs": false,
+    "noImplicitAny": true
+  }
 }
-  

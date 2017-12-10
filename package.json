@@ -2,7 +2,7 @@
   "name": "kite",
   "version": "0.0.1",
   "description": "Kite is a drawing application for knitting and so on",
-  "main": "index.js",
+  "main": "index.electron.js",
   "author": "Vlad Sydorenko",
   "license": "MIT",
   "scripts": {

@@ -1,7 +1,7 @@
 {
-    "verbose": true,
-    "ignore": ["node_modules/*", "dist/*", "*.css.d.ts"],
-    "watch": ["src/"],
-    "runOnChangeOnly": false,
-    "ext": "ts tsx css"
+  "verbose": true,
+  "ignore": ["node_modules/*", "dist/*", "*.css.d.ts"],
+  "watch": ["src/"],
+  "runOnChangeOnly": false,
+  "ext": "ts tsx css"
 }
